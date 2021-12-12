@@ -8,9 +8,9 @@ Time series analysis is aways an interesting topic to me, and the gold price is 
 ## Load the Data
 ## EDA
 ### Single time series EDA
-Fill in missing value
-Move, Smoothe and Decompose
-Change
+1）Fill in missing value
+2）Move, Smoothe and Decompose
+3）Change
 ### Compare two time series
 ## Time Series Features
 ## Change Point Detection
